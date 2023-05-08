@@ -1,4 +1,4 @@
-# Project Title (Templates)
+# Project Title (Template)
 
 A short description about the project and/or client.
 
