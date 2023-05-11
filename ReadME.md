@@ -1,7 +1,8 @@
-# Portfolio Template
+# CompTIA Certifications
+    *Created by: Christopher Clark*
 
 
-## Features
+## A+ Certification &  
 
 - Clean, Simple and Modern UI Design.
 - Uses No CSS or JavaScript Frameworks or libraries as dependencies.
@@ -11,11 +12,15 @@
 - Fully Responsive.
 - Loads fast ⚡.
 
-## Lighthouse Report
+## IT Fundamentals (ITF+)
 
-![Lighthouse Report](/images/lighthouse-report.png)
-
-### Contributions are warmly welcomed ❤️.
+- Clean, Simple and Modern UI Design.
+- Uses No CSS or JavaScript Frameworks or libraries as dependencies.
+- Built with only HTML, CSS and a bit of JavaScript 🔨.
+- Well Organized Documentation.
+- Keyboard support.
+- Fully Responsive.
+- Loads fast ⚡.
 
 ## Getting Started 🚀
 
