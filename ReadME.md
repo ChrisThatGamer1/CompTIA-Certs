@@ -6,7 +6,7 @@ By: Christopher Clark
 
 This repository will hold the starter files for the CompTIA Certifications, that I am study for. 
 
-<sub>ITF+ & A+ Certs</sub>
+<sub>ITF+ & A+</sub>
 
 ## Getting Started
 
