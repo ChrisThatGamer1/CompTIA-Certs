@@ -1,5 +1,5 @@
 # CompTIA Certifications
-    *Created by: Christopher Clark*
+   > Created by: Christopher Clark
 
 
 ## A+ Certification &  
